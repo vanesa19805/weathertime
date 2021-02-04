@@ -6,5 +6,21 @@
     margin-top:0px;
 }
 .list-group{
-    flex-direction: bottom;
+    position: absolute;
+    height: auto;
+    max-height: 100%;
+    width: 50%;
+    max-width: 40%;
+}
+.card-body2{
+    position: fixed;
+    padding-left: 0px;
+    
+}
+.card-body1{
+    float: right;
+    height: auto;
+    max-height: 100%;
+    width: 50%;
+    max-width: 40%;
 }
